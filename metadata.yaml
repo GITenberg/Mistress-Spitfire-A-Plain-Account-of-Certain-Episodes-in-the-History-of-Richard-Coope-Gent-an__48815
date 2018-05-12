@@ -1,4 +1,5 @@
 _repo: Mistress-Spitfire-A-Plain-Account-of-Certain-Episodes-in-the-History-of-Richard-Coope-Gent-an__48815
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,7 +10,12 @@ contributor:
       gutenberg_agent_id: '1761'
       url: http://www.gutenberg.org/2009/agents/1761
       wikipedia: http://en.wikipedia.org/wiki/J._S._Fletcher
+covers:
+- cover_type: archival
+  image_path: 48815-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48815#Mistress-Spitfire-A-Plain-Account-of-Certain-Episodes-in-the-History-of-Richard-Coope-Gent-an_
 gutenberg_issued: '2015-04-27'
 gutenberg_type: Text
 identifiers:
